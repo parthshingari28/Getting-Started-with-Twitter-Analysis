@@ -12,3 +12,5 @@
 5) Finding source of tweet i.e checking whether tweet has been tweeted from Android, IOS or WebApp.
 
 6) Identifying whether the tweet has been retweeted by the authenticated user or not ?
+
+7) Finding number tweets a user has favorited.
