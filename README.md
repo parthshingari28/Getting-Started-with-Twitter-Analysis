@@ -13,6 +13,6 @@
 
 6) Identifying whether the tweet has been retweeted by the authenticated user or not ?
 
-7) Finding number tweets a user has favorited.
+7) Post Status over Twitter i.e Tweet.
 
-8) Getting the number of friends of a user i.e following of a twitter user.
+
