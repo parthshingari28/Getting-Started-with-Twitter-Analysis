@@ -15,4 +15,6 @@
 
 7) Post Status over Twitter i.e Tweet.
 
+8) Followers and following count of twitter user using tweepy.
+
 
